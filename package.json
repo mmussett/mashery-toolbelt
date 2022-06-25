@@ -41,7 +41,7 @@
     "inquirer": "4.0.0",
     "isobject": "3.0.1",
     "jsondiffpatch": "0.3.7",
-    "node-fetch": "^1.7.2",
+    "node-fetch": "^2.6.7",
     "pluralize": "7.0.0",
     "prop-types": "15.6.1",
     "swagger-parser": "4.0.1",
